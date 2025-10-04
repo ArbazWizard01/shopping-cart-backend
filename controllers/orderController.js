@@ -27,7 +27,7 @@ const checkout = async (req, res) => {
           } = $${itemTotal.toFixed(2)}`
         );
       } else {
-        console.log(`⚠️ Product with ID ${item.id} not found`);
+        console.log(`Product with ID ${item.id} not found`);
       }
 
       console.log(`- Product ID: ${item.id}, Quantity: ${item.quantity}`);
