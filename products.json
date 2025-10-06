@@ -1,0 +1,33 @@
+[
+  {
+  "id": 1,
+  "name": "Galaxy Runners",
+  "price": 820.99,
+  "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.YjqpGKbBwycfgaeQR2c-QQHaJQ?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+  "id": 2,
+  "name": "Noise-Cancelling Headphones",
+  "price": 699.00,
+  "imageUrl": "https://img.freepik.com/premium-photo/pair-black-headphones-with-black-background_257043-25377.jpg"
+  },
+  {
+  "id": 3,
+  "name": "Vintage Denim Jacket",
+  "price": 485.50,
+  "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.5e1cAGbBPEgc8S3D2tMsTwHaG_?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3"
+  
+  },
+  {
+  "id": 4,
+  "name": "Stainless Steel Water Bottle",
+  "price": 225.00,
+  "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.5RGS3aCBQtU7TZR2kpbsQQHaEJ?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+  "id": 5,
+  "name": "Minimalist Leather Wallet",
+  "price": 340.75,
+  "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.7GBgP1s0PdDUFCxuRZ5KrQHaE8?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3"
+  }
+]
